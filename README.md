@@ -1,2 +1,3 @@
 # --dos-MAIN-PACKAGE
-do a show
+do a show main package to help out
+writers write there show
